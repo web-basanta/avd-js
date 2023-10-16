@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "test js",
+  "main": "js.js",
+  "scripts": {
+    "test": "js-function"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-basanta/avd-js.git"
+  },
+  "keywords": [
+    "js",
+    "info"
+  ],
+  "author": "basanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-basanta/avd-js/issues"
+  },
+  "homepage": "https://github.com/web-basanta/avd-js#readme"
+}
